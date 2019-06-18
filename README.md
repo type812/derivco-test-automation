@@ -1,7 +1,7 @@
 # derivco-test-automation
-This assignment contains the solution to the test assignment where automation for slot game is expected under different combinations of input test data sequence.
+This test assignment contains the solution of task where automation for slot game is expected under different combinations of input test data sequence.
 
-As part of the problem statement given ,I have written 22 test cases which encompasses around the win combination message and the equivalent middle row text highlight synchnorization as criteria for pass/fail. 
+As part of the problem statement given ,I have written 22 test cases which encompasses the win combination message and the equivalent middle row text highlight synchnorization as criteria for pass/fail. 
 
 Also,there are some basic test cases which covers the negative test scenarios and invalid test input sequences.
 
