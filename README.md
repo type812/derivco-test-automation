@@ -7,7 +7,7 @@ Also,there are some basic test cases which covers the negative test scenarios an
 
 I have chosen cypress as test automation tool for this task.
 
-test script file can be found here : 
+test script file can be found here : derivco-test-automation/cypress/integration/test_game.spec.js
 
 
 Approach:
